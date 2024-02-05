@@ -1,0 +1,22 @@
+a{
+    text-decoration: none;
+    font-size: 1.3rem;
+    margin-left: 5rem;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+
+}
+
+.box {
+    width: 10rem;
+    height: 10rem;
+    background-color: rgb(191, 85, 53);
+    margin: 1rem;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
